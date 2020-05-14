@@ -1,2 +1,0 @@
-# KeeperExercise
-Created with CodeSandbox
